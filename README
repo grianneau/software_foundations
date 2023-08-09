@@ -1,0 +1,20 @@
+#########################################################################
+                           SOFTWARE FOUNDATIONS
+#########################################################################
+
+This directory contains more readable HTML files for Volume 1 of Software Foundations 
+electronic textbook series.
+The code and text have been modified to use the SSReflect set of tactics.
+
+  - Preface.html
+    The place to start reading, including details on how to install
+    required software
+
+  - index.html
+    The book's cover page and navigation starting point
+
+  - deps.html 
+    Overview of the ordering of chapters
+
+  - LICENSE
+    Explanation of how these files may be redistributed
