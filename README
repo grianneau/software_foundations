@@ -2,8 +2,8 @@
                            SOFTWARE FOUNDATIONS
 #########################################################################
 
-This directory contains more readable HTML files for Volume 1 of Software Foundations 
-electronic textbook series.
+This directory contains both Coq scripts (.v files) and more readable HTML files 
+for Volume 1 of Software Foundations electronic textbook series.
 The code and text have been modified to use the SSReflect set of tactics.
 
   - Preface.html
